@@ -2,7 +2,7 @@
 layout: about
 title: 
 permalink: /
-subtitle: PhD Biomedical Engineer
+subtitle: (almost) PhD Biomedical Engineer
 
 profile:
   align: left
