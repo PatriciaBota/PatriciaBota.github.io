@@ -1109,3 +1109,36 @@ swiper-container {
     border-bottom: 2px solid var(--global-text-color);
   }
 }
+
+.post-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.post-title {
+  font-size: 2em; /* Adjust the size accordingly */
+  line-height: 1.2;
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+.desc {
+  color: $grey-color; /* Adjust the color to a muted shade */
+  font-size: 1.2em;
+  margin-top: 5px;
+}
+
+.contact {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.contact a {
+  text-decoration: none;
+  color: inherit;
+  font-size: 1em; /* Adjust the size accordingly */
+}

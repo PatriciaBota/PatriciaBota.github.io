@@ -15,12 +15,15 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
-PhD finalist with nearly 6 years of research experience with 10+ papers in peer‐reviewed journals (700+ citations, around 80% Q1), 15+ collabora‐ tions, 5+ workshops (inc. NATO talk), and 5+ scientific fairs.
+PhD finalist with nearly 6 years of research experience with 10+ papers in peer‐reviewed journals (700+ citations, around 80% Q1), 15+ collaborations, 5+ workshops (inc. NATO talk), and 5+ scientific fairs.
 
+Besides scientific output, my work includes the end‐to‐end development of EmotiphAI, a platform for group physiological data collection, show‐cased at the European Commission’s Resonances III Fest, an online theatre in collaboration with Univ. Tartu, and others. This project underlined my multi‐faced skills in software architecture, front‐end and back‐end, and reflected my commitment to learning new technologies.
 
-Besides scientific output, my work includes the end‐to‐end development of EmotiphAI, a platform for group physiological data collection, show‐cased at the 2019 WebSummit, at the European Commission’s Resonances III Fest. and an online theatre in collaboration with Univ. Tartu. This project underlined my multi‐faced skills in software architecture, front‐end and back‐end, and reflected my commitment to learning new technologies.
+**Interests**: Applying artificial intelligence algorithms to analyze physiological signals for medical applications.
+
+[Detailed Curriculum]({{ '/assets/pdf/cv.pdf' | relative_url }})
 
 [comment]: # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
