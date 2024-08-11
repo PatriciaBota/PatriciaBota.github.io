@@ -2,7 +2,7 @@
 layout: about
 title: 
 permalink: /
-subtitle: (almost) PhD Biomedical Engineer
+subtitle: MSc Biomedical Engineer
 
 profile:
   align: left
@@ -12,18 +12,31 @@ profile:
     <p>Lab 10.21 TN, IST</p>
     <p>Av. Rovisco Pais 1</p>
     <p>1049-001 Lisboa</p>
+    
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_publications: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-PhD finalist with nearly 6 years of research experience with 10+ papers in peer‐reviewed journals (700+ citations, around 80% Q1), 15+ collaborations, 5+ workshops (inc. NATO talk), and 5+ scientific fairs.
 
-Besides scientific output, my work includes the end‐to‐end development of EmotiphAI, a platform for group physiological data collection, show‐cased at the European Commission’s Resonances III Fest, an online theatre in collaboration with Univ. Tartu, and others. This project underlined my multi‐faced skills in software architecture, front‐end and back‐end, and reflected my commitment to learning new technologies.
+Specializing in the convergence of wearable devices, signal processing, and artificial intelligence.
 
-**Interests**: Applying artificial intelligence algorithms to analyze physiological signals for medical applications.
+&nbsp; <i class="fas fa-flask"></i> &nbsp;  6 years of research experience
 
-[Detailed Curriculum]({{ '/assets/pdf/cv.pdf' | relative_url }})
+&nbsp; <i class="fas fa-file-alt"></i>  &nbsp;  10+ peer-reviewed papers
+
+&nbsp; <i class="fas fa-quote-right"></i> &nbsp;  800+ citations (~80% Q1)
+
+&nbsp; <i class="fas fa-handshake"></i> &nbsp;  15+ academic and industry collaborations
+
+&nbsp; <i class="fas fa-heartbeat"></i> &nbsp;  AI algorithms for analyzing physiological signals in medical applications
+
+
+
+<!--[Detailed Curriculum]({{ '/assets/pdf/cv.pdf' | relative_url }})-->
+
+
 
 [comment]: # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

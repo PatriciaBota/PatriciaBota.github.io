@@ -188,7 +188,6 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
 
     p {
       display: inline-block;
@@ -238,12 +237,15 @@ ul.task-list input[type="checkbox"] {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  font-weight: bold; /* Make text bold */
+  font-size: 1.2em; /* Increase font size */
 }
 
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
   border: 1px solid var(--global-divider-color);
-
+  font-weight: bold; /* Make dropdown text bold */
+  font-size: 1.2em; /* Increase dropdown font size */
   a:not(.active) {
     color: var(--global-text-color);
   }
