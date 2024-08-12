@@ -15,14 +15,13 @@ layout: default
         <a href="https://www.linkedin.com/in/patriciabota/"><i class="fa-brands fa-linkedin"></i> LinkedIn</a> |
         <a href="https://github.com/PatriciaBota"><i class="fa-brands fa-github"></i> GitHub</a> |
         <a href="https://scholar.google.pt/citations?user=3RvlpVcAAAAJ"><i class="fa-brands fa-google-scholar"></i></i> Scholar</a> 
-
     </div>
     <!-- <p class="desc">{{ page.subtitle }}</p> -->
   </header>
 
   <article>
     {% if page.profile %}
-      <div class="profile-container">
+      <div class="profile-container clearfix">
         <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if page.profile.image %}
             {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
@@ -31,8 +30,7 @@ layout: default
             {% else %}
               {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
             {% endif %}
-            {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
-          30vw, 95vw"{% endcapture %}
+            {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
             {%
               include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
               cache_bust=true
@@ -42,9 +40,10 @@ layout: default
             <div class="more-info">{{ page.profile.more_info }}</div>
           {% endif %}
         </div>
-        <div class="clearfix">{{ content }}</div>
+        <div class="content">{{ content }}</div>
       </div>
     {% endif %}
+    
 
 
     <!-- News -->

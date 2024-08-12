@@ -2,10 +2,10 @@
 layout: page
 title: "&#124; Projects"
 permalink: /projects/
-description: Categorized by Work Type.
+description: Selected Projects Categorized by Work Type.
 nav: true
 nav_order: 2
-display_categories: [Software Tool, Artificial Intelligence]
+display_categories: [Software Tool, Artificial Intelligence, Dataset]
 horizontal: true
 ---
 

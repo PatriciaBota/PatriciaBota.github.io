@@ -8,7 +8,7 @@ related_publications: false
 selected: true
 img: /assets/img/project/group_syn_preview
 link: https://github.com/PatriciaBota/WGS_public
-skills: [Python, PyTorch, Ray Tune, Time Series, EDA, PPG, ECG, SSH]
+skills: [Python, PyTorch, Ray Tune, Time Series, EDA, PPG, ECG, SSH, scikit-learn]
 ---
 
 
