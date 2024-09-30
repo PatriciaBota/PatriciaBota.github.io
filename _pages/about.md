@@ -2,7 +2,7 @@
 layout: about
 title: 
 permalink: /
-subtitle: MSc Biomedical Engineer
+subtitle: Biomedical Engineer PhD
 
 profile:
   align: left
@@ -22,11 +22,11 @@ social: false # includes social icons at the bottom of the page
 
 Specializing in the convergence of wearable devices, signal processing, and artificial intelligence.
 
-&nbsp; <i class="fas fa-flask"></i> &nbsp;  6 years of research experience
+&nbsp; <i class="fas fa-flask"></i> &nbsp;  6+ years of research experience
 
 &nbsp; <i class="fas fa-file-alt"></i>  &nbsp;  10+ peer-reviewed papers
 
-&nbsp; <i class="fas fa-quote-right"></i> &nbsp;  800+ citations (~80% Q1)
+&nbsp; <i class="fas fa-quote-right"></i> &nbsp;  900+ citations 
 
 &nbsp; <i class="fas fa-handshake"></i> &nbsp;  15+ academic and industry collaborations
 
