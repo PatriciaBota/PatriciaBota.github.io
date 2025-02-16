@@ -2,16 +2,17 @@
 layout: about
 title: 
 permalink: /
-subtitle: Biomedical Engineer PhD
+subtitle: AI Research Fellow @ MGH/Harvard Medical School
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
-    <p>Lab 10.21 TN, IST</p>
-    <p>Av. Rovisco Pais 1</p>
-    <p>1049-001 Lisboa</p>
+    <p> Massachusetts General Hospital 
+    Cardiovascular Research Center 
+    149 13th Street, 4.201B  
+    Charlestown, MA 02129 </p>
     
 
 news: false # includes a list of news items
