@@ -6,7 +6,7 @@ importance: 2
 category: Artificial Intelligence
 related_publications: false
 selected: true
-img: /assets/img/project/group_syn_preview
+img: /assets/img/project/group_syn_preview.png
 link: https://github.com/PatriciaBota/WGS_public
 skills: [Python, PyTorch, Ray Tune, Time Series, EDA, PPG, ECG, SSH, scikit-learn]
 ---

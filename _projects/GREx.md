@@ -6,7 +6,7 @@ importance: 3
 category: Dataset
 related_publications: false
 selected: true
-img: /assets/img/project/structure_preview
+img: /assets/img/project/structure_preview.png
 link: https://github.com/PatriciaBota/g-rex_public
 skills: [Python, seaborn, matplotlib, data quality]
 ---

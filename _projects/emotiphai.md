@@ -6,7 +6,7 @@ importance: 1
 category: Software Tool
 related_publications: false
 selected: true
-img: /assets/img/project/emotiphai_preview
+img: /assets/img/project/emotiphai_preview.png
 link: https://github.com/PatriciaBota/EmotiphAI_public
 skills: ["Python", "SQL", "Flask", "HTML", "JavaScript", "FastAPI", "CSS", "JQuery", "WebSockets", "Multiprocessing", "Asynchronous Programming", "Communications Protocols"]
 ---
