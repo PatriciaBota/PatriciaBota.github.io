@@ -2,17 +2,14 @@
 layout: about
 title: 
 permalink: /
-subtitle: AI Research Fellow @ MGH/Harvard Medical School
+subtitle: Chief Technology Officer @ Hibiscus Health
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
-    <p> Massachusetts General Hospital 
-    Cardiovascular Research Center 
-    149 13th Street, 4.201B  
-    Charlestown, MA 02129 </p>
+    <p> 575 Lexington Ave, New York, NY 10022 </p>
     
 
 news: false # includes a list of news items
@@ -23,11 +20,11 @@ social: false # includes social icons at the bottom of the page
 
 Specializing in the convergence of wearable devices, signal processing, and artificial intelligence.
 
-&nbsp; <i class="fas fa-flask"></i> &nbsp;  6+ years of research experience
+&nbsp; <i class="fas fa-flask"></i> &nbsp;  7+ years of research experience
 
 &nbsp; <i class="fas fa-file-alt"></i>  &nbsp;  10+ peer-reviewed papers
 
-&nbsp; <i class="fas fa-quote-right"></i> &nbsp;  900+ citations 
+&nbsp; <i class="fas fa-quote-right"></i> &nbsp;  1200+ citations 
 
 &nbsp; <i class="fas fa-handshake"></i> &nbsp;  15+ academic and industry collaborations
 
