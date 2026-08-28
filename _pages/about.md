@@ -2,14 +2,14 @@
 layout: about
 title: 
 permalink: /
-subtitle: Chief Technology Officer @ Hibiscus Health
+subtitle: AI for Physiological Signals · Wearables · Digital Health
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
-    <p> 575 Lexington Ave, New York, NY 10022 </p>
+    <p> Lisbon, Portugal </p>
     
 
 news: false # includes a list of news items
