@@ -6,7 +6,7 @@ subtitle: AI for Physiological Signals · Wearables · Digital Health
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: 
     <p> Lisbon, Portugal </p>
@@ -20,15 +20,15 @@ social: false # includes social icons at the bottom of the page
 
 Specializing in the convergence of wearable devices, signal processing, and artificial intelligence.
 
-&nbsp; <i class="fas fa-flask"></i> &nbsp;  7+ years of research experience
+&nbsp; <i class="fas fa-flask"></i> &nbsp;  8+ years building ML for physiological signals
 
-&nbsp; <i class="fas fa-file-alt"></i>  &nbsp;  10+ peer-reviewed papers
+&nbsp; <i class="fas fa-file-alt"></i>  &nbsp;  25+ publications · h-index 10
 
-&nbsp; <i class="fas fa-quote-right"></i> &nbsp;  1200+ citations 
+&nbsp; <i class="fas fa-quote-right"></i> &nbsp;  **1,600+ citations**
 
-&nbsp; <i class="fas fa-handshake"></i> &nbsp;  15+ academic and industry collaborations
+&nbsp; <i class="fas fa-download"></i> &nbsp;  **1.9M+ downloads** of open-source biosignal libraries I co-authored (BioSPPy, TSFEL)
 
-&nbsp; <i class="fas fa-heartbeat"></i> &nbsp;  AI algorithms for analyzing physiological signals in medical applications
+&nbsp; <i class="fas fa-user-graduate"></i> &nbsp;  10 MSc and BSc theses co-supervised
 
 
 
